@@ -236,8 +236,6 @@ After the part has been annealed, it is ready for the heat treatment process. Th
 #### Explanation:
 The stop process in post additive process in heat treatment is to cool the part slowly. This is important because rapid cooling can cause the part to develop stresses that can lead to cracking or warping. The part can be cooled slowly by air, water, or oil.
 
-Once the part has cooled, it is ready for use. However, it is important to note that the properties of the part may change over time. For example, steel parts that have been heat treated may become more brittle over time. This is why it is important to inspect the part regularly and replace it if it shows signs of wear or damage.
-
 Here are some of the things to consider when cooling a 3D printed part after heat treatment:
 
 The type of material: The type of material that the part is made of will determine the best way to cool it. For example, steel parts should be cooled slowly in oil, while aluminum parts can be cooled quickly in air.
